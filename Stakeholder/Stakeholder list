@@ -1,0 +1,22 @@
+| Stakeholder        | Description                                              | Power/Interest | Expectations                                                                        |
+|--------------------|----------------------------------------------------------|----------------|-------------------------------------------------------------------------------------|
+| Client             | Tom Griffiths, the product owner and financier.          | High, High     | - Work hard                                                                        |
+|                    |                                                          |                | - Maintain constant communication                                                 |
+|                    |                                                          |                | - Consider maintainability of tools                                               |
+| Techlauncher team  | The development team.                                    | High, Low      | - Maintain communication                                                           |
+|                    |                                                          |                | - Provide and reflect on feedback                                                  |
+|                    |                                                          |                | - Provide learning opportunities                                                  |
+|                    |                                                          |                | - Team makes fair decisions                                                        |
+| Users              | Individuals interested in news content.                  | Medium, High  | - A smooth experience                                                              |
+|                    |                                                          |                | - Privacy is protected                                                              |
+|                    |                                                          |                | - Service is secure                                                                 |
+| Sources            | News agencies supplying content to the platform.         | Medium, Medium| - Copyright is protected                                                           |
+|                    |                                                          |                | - Providers are presented fairly and without bias                                    |
+| News Agencies      | Competitors and content sources.                         | Medium, Low   | - Agencies aren’t discredited and are represented fairly                            |
+| Tutor              | Techlauncher tutor assessing team performance.           | Medium, Low   | - Maintain communication                                                           |
+|                    |                                                          |                | - Team is dedicated to learning                                                    |
+|                    |                                                          |                | - Team engages in the course content                                               |
+| Shadows            | Shadow team also assessing the project.                  | Low, Low      | - Maintain communication                                                           |
+|                    |                                                          |                | - Provide and reflect on feedback                                                  |
+| Government         | Invests in news outlets and responsible for legislation. | Medium, Low   | - Copyright is protected                                                           |
+|                    |                                                          |                | - Legislation is followed                                                          |

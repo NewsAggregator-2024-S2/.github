@@ -1,0 +1,10 @@
+| ID   | Short Description                           | Importance | Stakeholder       | Notes                                                   |
+|------|--------------------------------------------|------------|-------------------|---------------------------------------------------------|
+| SN1.1| Ensure privacy protection                  | High       | Users             | Users expect their privacy to be safeguarded.            |
+| SN1.2| Ensure smooth user experience              | High       | Users             | Users expect a seamless and intuitive experience.        |
+| SN1.3| Protect copyright of news content          | High       | Sources           | News agencies require content protection.                |
+| SN1.4| Fair representation of news agencies       | Medium     | News Agencies     | Agencies expect impartial representation.                 |
+| SN1.5| Maintain communication with development   | High       | Techlauncher Team | Development team expects clear communication.            |
+| SN1.6| Provide actionable advice for improvement | Medium     | Tutor             | Tutors expect to provide guidance for improvement.       |
+| SN1.7| Protect intellectual property             | High       | Client            | Client requires intellectual property protection.        |
+| SN1.8| Compliance with news and media legislation| Medium     | Government        | Compliance with legislation is expected.                 |
