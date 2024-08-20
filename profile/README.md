@@ -38,7 +38,7 @@ Use the Openverse API to search and download images of the primary person, apply
 Review and refine the image design, experiment with different elements, apply new designs to various articles and people, and explore future enhancements (e.g., adding a second person, incorporating symbols and text).
 
 
-## 🕥Milestones
+## Milestones
   * [x] Foundation and Basic Image Processing
   * [x] Entity Recognition and Text Overlay
   * [ ] Full Frame and Split Frame: Image-Text  **- ongoing**
