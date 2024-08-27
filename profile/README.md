@@ -39,48 +39,49 @@ Review and refine the image design, experiment with different elements, apply ne
 
 
 ## Milestones
+  Week 1 - Week 2
   * [x] Foundation and Basic Image Processing
       * [x]  1. Set up project repository and development environment
       * [x]  2. Implement image acquisition and caching from approved sources
       * [x]  3. Develop basic image quality assessment function
       * [x]  4. Create a simple background removal function
       * [x]  5. Implement basic color manipulation (including B&W conversion)
-           
+  Week 3 - Week 4       
   * [x] Entity Recognition and Text Overlay
       * [x]  1. Develop entity recognition function to extract key entities from articles
       * [x]  2. Create text generation function for overlays
       * [x]  3. Implement text positioning and styling function
       * [x]  4. Integrate text overlay with existing image processing pipeline
       * [x]  5. Begin work on the "Full Frame" composition type
-
+  Week 5 - Week 6
   * [ ] Full Frame and Split Frame: Image-Text  **- ongoing**
       * [x] 1. Finalise "Full Frame" composition type
       * [ ] 2. Implement advanced cropping algorithm for "Split Frame: Image-Text"
       * [ ] 3. Develop text extraction and formatting for the text portion
       * [ ] 4. Create cohesive colour scheme function for image and text portions
       * [ ] 5. Integrate all components for "Split Frame: Image-Text
-       
+  Week 7 - Week 8
   * [ ] Gradient Portraits and Split Frame: Scene-Portrait
       * [ ] 1. Develop gradient generation function
       * [ ] 2. Implement figure isolation and placement for "Gradient Portrait"
       * [ ] 3. Create scene selection and cropping for "Split Frame: Scene-Portrait"
       * [ ] 4. Develop blended gradient background for portrait in split frame
       * [ ] 5. Integrate components for both composition types
-
+  Week 9 - Week 10
   * [ ] Dual Portraits (Simple, Gradient, Diagonal
       * [ ] 1. Develop face detection and optimal cropping for dual portraits
       * [ ] 2. Implement "Dual Portrait: Simple" with balancing adjustments
       * [ ] 3. Create gradient background generation for "Dual Portrait: Gradient"
       * [ ] 4. Develop diagonal splitting and cropping for "Dual Portrait: Diagonal"
       * [ ] 5. Implement dynamic text placement for diagonal layout
-           
+  Week 11
   * [ ] Triple Frame and Circular Focus
       * [ ] 1. Develop three-part image selection and cropping for "Triple Frame"
       * [ ] 2. Implement colour harmonisation across three images
       * [ ] 3. Create circular masking and feathering for "Circular Focus"
       * [ ] 4. Develop background blur and vignette effect for "Circular Focus"
       * [ ] 5. Implement text placement for both composition types
-            
+  Week 12
   * [ ] Quad Frame and Integration
       * [ ] 1. Develop four-part image selection and cropping for "Quad Frame"
       * [ ] 2. Implement colour harmonisation across four images
