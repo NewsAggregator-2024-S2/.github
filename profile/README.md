@@ -54,7 +54,7 @@ Review and refine the image design, experiment with different elements, apply ne
       * [x]  5. Begin work on the "Full Frame" composition type
 
   * [ ] Full Frame and Split Frame: Image-Text  **- ongoing**
-      * [ ] 1. Finalise "Full Frame" composition type
+      * [x] 1. Finalise "Full Frame" composition type
       * [ ] 2. Implement advanced cropping algorithm for "Split Frame: Image-Text"
       * [ ] 3. Develop text extraction and formatting for the text portion
       * [ ] 4. Create cohesive colour scheme function for image and text portions
