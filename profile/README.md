@@ -46,6 +46,7 @@ Week 1 - Week 2
       * [x]  3. Develop basic image quality assessment function
       * [x]  4. Create a simple background removal function
       * [x]  5. Implement basic color manipulation (including B&W conversion)
+  * [x] Preparation of Audit 1
    
 Week 3 - Week 4       
   * [x] Entity Recognition and Text Overlay
@@ -62,7 +63,8 @@ Week 5 - Week 6
       * [ ] 3. Develop text extraction and formatting for the text portion
       * [ ] 4. Create cohesive colour scheme function for image and text portions
       * [ ] 5. Integrate all components for "Split Frame: Image-Text
-   
+  * [x] Preparation of Audit 2
+
 Week 7 - Week 8
   * [ ] Gradient Portraits and Split Frame: Scene-Portrait
       * [ ] 1. Develop gradient generation function
