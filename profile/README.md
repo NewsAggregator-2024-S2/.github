@@ -59,8 +59,8 @@ Week 3 - Week 4
 Week 5 - Week 6
   * [ ] Full Frame and Split Frame: Image-Text  **- ongoing**
       * [x] 1. Finalise "Full Frame" composition type
-      * [ ] 2. Implement advanced cropping algorithm for "Split Frame: Image-Text"
-      * [ ] 3. Develop text extraction and formatting for the text portion
+      * [x] 2. Implement advanced cropping algorithm for "Split Frame: Image-Text"
+      * [x] 3. Develop text extraction and formatting for the text portion
       * [ ] 4. Create cohesive colour scheme function for image and text portions
       * [ ] 5. Integrate all components for "Split Frame: Image-Text
   * [x] Preparation for Audit 2
