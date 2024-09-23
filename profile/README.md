@@ -66,12 +66,12 @@ Week 5 - Week 6
   * [x] Preparation for Audit 2
 
 Week 7 - Week 8
-  * [ ] Gradient Portraits and Split Frame: Scene-Portrait
-      * [ ] 1. Develop gradient generation function
-      * [ ] 2. Implement figure isolation and placement for "Gradient Portrait"
-      * [ ] 3. Create scene selection and cropping for "Split Frame: Scene-Portrait"
-      * [ ] 4. Develop blended gradient background for portrait in split frame
-      * [ ] 5. Integrate components for both composition types
+  * [ ] Code structure integration and optimisation
+      * [x] 1. Dividing the code into modular parts
+      * [x] 2. Discussion on code reconstruction for improved optimization and testing
+      * [x] 3. Defining clear components for further development and testing phases
+      * [ ] 4. Optimizing face recognition and segmentation features
+      * [ ] 5. Testing and validation of the optimized components
        
 Week 9 - Week 10
   * [ ] Dual Portraits (Simple, Gradient, Diagonal
