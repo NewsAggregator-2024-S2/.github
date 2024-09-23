@@ -57,7 +57,7 @@ Week 3 - Week 4
       * [x]  5. Begin work on the "Full Frame" composition type
     
 Week 5 - Week 6
-  * [x] Full Frame and Split Frame: Image-Text  **- ongoing**
+  * [x] Full Frame and Split Frame: Image-Text
       * [x] 1. Finalise "Full Frame" composition type
       * [x] 2. Implement advanced cropping algorithm for "Split Frame: Image-Text"
       * [x] 3. Develop text extraction and formatting for the text portion
@@ -66,7 +66,7 @@ Week 5 - Week 6
   * [x] Preparation for Audit 2
 
 Week 7 - Week 8
-  * [ ] Code structure integration and optimisation
+  * [ ] Code structure integration and optimisation  **- ongoing**
       * [x] 1. Dividing the code into modular parts
       * [x] 2. Discussion on code reconstruction for improved optimization and testing
       * [x] 3. Defining clear components for further development and testing phases
