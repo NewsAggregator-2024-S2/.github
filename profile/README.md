@@ -72,6 +72,7 @@ Week 7 - Week 8
       * [x] 3. Defining clear components for further development and testing phases
       * [ ] 4. Optimizing face recognition and segmentation features
       * [ ] 5. Testing and validation of the optimized components
+      * [ ] 6. Making the project video and showcase 
        
 Week 9 - Week 10
   * [ ] Dual Portraits (Simple, Gradient, Diagonal
