@@ -79,7 +79,7 @@ Week 9 - Week 10
       * [x] 1. Make the project video and showcase 
       * [x] 2. Make the poster
       * [ ] 3. Make the testing with client, tutor and shadow team
-  * [] Preparation for Audit 3
+  * [ ] Preparation for Audit 3
    
 Week 11 - Week 12
   * [ ] Project closure phase
