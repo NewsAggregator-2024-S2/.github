@@ -67,18 +67,18 @@ Week 5 - Week 6
 
 Week 7 - Week 8
   * [x] Code structure integration and optimisation
-      * [x] 1. Dividing the code into modular parts
-      * [x] 2. Discussion on code reconstruction for improved optimization and testing
-      * [x] 3. Defining clear components for further development and testing phases
-      * [x] 4. Optimizing face recognition and segmentation features
-      * [x] 5. Testing and validation of the optimized components
-      * [x] 6. Making the project video and showcase 
+      * [x] 1. Divide the code into modular parts
+      * [x] 2. Discuss on code reconstruction for improved optimization and testing
+      * [x] 3. Define clear components for further development and testing phases
+      * [x] 4. Optimize face recognition and segmentation features
+      * [x] 5. Test and validation of the optimized components
+      * [x] 6. Make the project video and showcase 
        
 Week 9 - Week 10
   * [ ] Preparation for video showcase **- ongoing**
-      * [x] 1. Making the project video and showcase 
-      * [x] 2. Making the poster
-      * [ ] 3. Making the testing with client, tutor and shadow team
+      * [x] 1. Make the project video and showcase 
+      * [x] 2. Make the poster
+      * [ ] 3. Make the testing with client, tutor and shadow team
   * [] Preparation for Audit 3
    
 Week 11 - Week 12
@@ -86,3 +86,4 @@ Week 11 - Week 12
       * [ ] 1. Develop main interface for selecting composition types based on article content
       * [ ] 2. Integrate all components into a unified system
       * [ ] 3. Conduct thorough testing and bug fixing
+      * [ ] 4. Make personal Work Portfolio Package
