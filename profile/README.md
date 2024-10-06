@@ -66,35 +66,23 @@ Week 5 - Week 6
   * [x] Preparation for Audit 2
 
 Week 7 - Week 8
-  * [ ] Code structure integration and optimisation  **- ongoing**
+  * [x] Code structure integration and optimisation
       * [x] 1. Dividing the code into modular parts
       * [x] 2. Discussion on code reconstruction for improved optimization and testing
       * [x] 3. Defining clear components for further development and testing phases
-      * [ ] 4. Optimizing face recognition and segmentation features
-      * [ ] 5. Testing and validation of the optimized components
-      * [ ] 6. Making the project video and showcase 
+      * [x] 4. Optimizing face recognition and segmentation features
+      * [x] 5. Testing and validation of the optimized components
+      * [x] 6. Making the project video and showcase 
        
 Week 9 - Week 10
-  * [ ] Dual Portraits (Simple, Gradient, Diagonal
-      * [ ] 1. Develop face detection and optimal cropping for dual portraits
-      * [ ] 2. Implement "Dual Portrait: Simple" with balancing adjustments
-      * [ ] 3. Create gradient background generation for "Dual Portrait: Gradient"
-      * [ ] 4. Develop diagonal splitting and cropping for "Dual Portrait: Diagonal"
-      * [ ] 5. Implement dynamic text placement for diagonal layout
+  * [ ] Preparation for video showcase **- ongoing**
+      * [x] 1. Making the project video and showcase 
+      * [x] 2. Making the poster
+      * [ ] 3. Making the testing with client, tutor and shadow team
+  * [] Preparation for Audit 3
    
-Week 11
-  * [ ] Triple Frame and Circular Focus
-      * [ ] 1. Develop three-part image selection and cropping for "Triple Frame"
-      * [ ] 2. Implement colour harmonisation across three images
-      * [ ] 3. Create circular masking and feathering for "Circular Focus"
-      * [ ] 4. Develop background blur and vignette effect for "Circular Focus"
-      * [ ] 5. Implement text placement for both composition types
-   
-Week 12
-  * [ ] Quad Frame and Integration
-      * [ ] 1. Develop four-part image selection and cropping for "Quad Frame"
-      * [ ] 2. Implement colour harmonisation across four images
-      * [ ] 3. Create central overlapping element for "Quad Frame"
-      * [ ] 4. Develop main interface for selecting composition types based on article content
-      * [ ] 5. Integrate all components into a unified system
-      * [ ] 6. Conduct thorough testing and bug fixing
+Week 11 - Week 12
+  * [ ] Project closure phase
+      * [ ] 1. Develop main interface for selecting composition types based on article content
+      * [ ] 2. Integrate all components into a unified system
+      * [ ] 3. Conduct thorough testing and bug fixing
