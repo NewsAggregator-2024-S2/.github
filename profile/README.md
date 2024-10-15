@@ -75,11 +75,11 @@ Week 7 - Week 8
       * [x] 6. Make the project video and showcase 
        
 Week 9 - Week 10
-  * [ ] Preparation for video showcase **- ongoing**
+  * [x] Preparation for video showcase **- ongoing**
       * [x] 1. Make the project video and showcase 
       * [x] 2. Make the poster
-      * [ ] 3. Make the testing with client, tutor and shadow team
-  * [ ] Preparation for Audit 3
+      * [x] 3. Make the testing with client, tutor and shadow team
+  * [x] Preparation for Audit 3
    
 Week 11 - Week 12
   * [ ] Project closure phase
